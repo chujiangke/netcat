@@ -1,0 +1,4 @@
+---- core_listen Matches (3 in 3 files) ----
+Core.c (x:\netcat-0.7.1\src):int core_listen(nc_sock_t *ncsock)
+Netcat.c (x:\netcat-0.7.1\src):    accept_ret = core_listen(&listen_sock);
+Proto.h (x:\netcat-0.7.1\src):int core_listen(nc_sock_t *ncsock);
